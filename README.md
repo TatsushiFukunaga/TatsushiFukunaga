@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Tatsushi Fukunaga
 
 - Self taught web developer in Tokyo 🇯🇵
-- Love football and Barça ⚽️
+- Love coding 💻 and football ⚽️
 
 
 
